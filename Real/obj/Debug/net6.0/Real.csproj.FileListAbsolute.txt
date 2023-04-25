@@ -1,0 +1,8 @@
+/Users/chadyorgason/Documents/Winter 2023/repos/123/RealFinal_chadey08/Real/obj/Debug/net6.0/Real.csproj.AssemblyReference.cache
+/Users/chadyorgason/Documents/Winter 2023/repos/123/RealFinal_chadey08/Real/obj/Debug/net6.0/Real.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chadyorgason/Documents/Winter 2023/repos/123/RealFinal_chadey08/Real/obj/Debug/net6.0/Real.AssemblyInfoInputs.cache
+/Users/chadyorgason/Documents/Winter 2023/repos/123/RealFinal_chadey08/Real/obj/Debug/net6.0/Real.AssemblyInfo.cs
+/Users/chadyorgason/Documents/Winter 2023/repos/123/RealFinal_chadey08/Real/obj/Debug/net6.0/Real.csproj.CoreCompileInputs.cache
+/Users/chadyorgason/Documents/Winter 2023/repos/123/RealFinal_chadey08/Real/obj/Debug/net6.0/Real.MvcApplicationPartsAssemblyInfo.cache
+/Users/chadyorgason/Documents/Winter 2023/repos/123/RealFinal_chadey08/Real/obj/Debug/net6.0/Real.RazorAssemblyInfo.cache
+/Users/chadyorgason/Documents/Winter 2023/repos/123/RealFinal_chadey08/Real/obj/Debug/net6.0/Real.RazorAssemblyInfo.cs

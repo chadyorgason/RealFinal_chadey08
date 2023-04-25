@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/chadyorgason/Documents/Winter 2023/repos/Real/Real/Real/Real.csproj": {}
+    "/Users/chadyorgason/Documents/Winter 2023/repos/123/RealFinal_chadey08/Real/Real.csproj": {}
   },
   "projects": {
-    "/Users/chadyorgason/Documents/Winter 2023/repos/Real/Real/Real/Real.csproj": {
+    "/Users/chadyorgason/Documents/Winter 2023/repos/123/RealFinal_chadey08/Real/Real.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chadyorgason/Documents/Winter 2023/repos/Real/Real/Real/Real.csproj",
+        "projectUniqueName": "/Users/chadyorgason/Documents/Winter 2023/repos/123/RealFinal_chadey08/Real/Real.csproj",
         "projectName": "Real",
-        "projectPath": "/Users/chadyorgason/Documents/Winter 2023/repos/Real/Real/Real/Real.csproj",
+        "projectPath": "/Users/chadyorgason/Documents/Winter 2023/repos/123/RealFinal_chadey08/Real/Real.csproj",
         "packagesPath": "/Users/chadyorgason/.nuget/packages/",
-        "outputPath": "/Users/chadyorgason/Documents/Winter 2023/repos/Real/Real/Real/obj/",
+        "outputPath": "/Users/chadyorgason/Documents/Winter 2023/repos/123/RealFinal_chadey08/Real/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/chadyorgason/.nuget/NuGet/NuGet.Config"
@@ -37,6 +37,28 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
